@@ -92,4 +92,4 @@ The `script.js` file contains the complete application logic and is organized ar
 - Ubosi Miracle
 - Uche Favour Chiemela
 - Titus Adaoma Blessing
-https://github.com/rmmesoma17-ship-it/digital_notebook
+https://digitalnotebookapp.netlify.app
